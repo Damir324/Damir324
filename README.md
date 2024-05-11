@@ -4,4 +4,8 @@
   <li>Moving Robots Cool</li>
   <li>Flying Robots Cool</li>
 </ul>
-<a href="https://google.com">LINK TO GOOGLE</a>
+<hr>
+<h1>Tools For this Development work</h1>
+<a href="https://google.com">LINK TO GOOGLE</a> 🦕=🐍+🦒
+<br>
+<a href="https://chatgpt.com/">CHAT GPT ALL WE NEED</a>😎
