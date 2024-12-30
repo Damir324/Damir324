@@ -29,6 +29,6 @@
         <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/DamirAdelAli" target="_blank">DamirAdelAli</a></li>
     </ul>
 
-    <p>Thanks for stopping by! Feel free to explore my work.</p>
+<p>Thanks for stopping by! Feel free to explore my work.</p>
 </body>
 </html>
