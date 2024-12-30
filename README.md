@@ -1,7 +1,9 @@
-<h1>Starter Items</h1>
+<h1>Hello My Name Is Damir Ali</h1>
+<h2>skills</h2>
 <ul>
-  <li>Robots Cool</li>
-  <li>Moving Robots Cool</li>
-  <li>Flying Robots Cool</li>
+  <li>Python</li>
+  <li>HTML, CSS, JAVASCRIPT</li>
+  <li>C#</li>
+  <li>SQL</li>
+  <li>Microsoft offices</li>
 </ul>
-<a href="https://google.com">LINK TO GOOGLE</a>
