@@ -23,7 +23,7 @@
         <li><strong>Focus Areas:</strong> Frontend & Backend Development, Robotics Projects</li>
     </ul>
 
-    <h2>📫 Connect with Me</h2>
+<h2>📫 Connect with Me</h2>
     <ul>
         <li><strong>Email:</strong> <a href="mailto:damiradel10@gmail.com">damiradel10@gmail.com</a></li>
         <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/DamirAdelAli" target="_blank">DamirAdelAli</a></li>
