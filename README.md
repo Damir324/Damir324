@@ -3,11 +3,9 @@
 Hi, I'm **Damir Ali**—an aspiring **Robotics Engineer** with a passion for **AI, automation, and full-stack development.**  
 
 ## 💡 About Me  
-- 🏫 **High School & Dual-Credit Student** (CS & Engineering)  
+- 🏫 **High School & Dual-Credit Student** (Computer information and technolog & Engineering)  
 - 🤖 **FRC Team Member** | Building competitive robots & team websites  
-- 💻 **Full-Stack Developer** | Specializing in Python, FastAPI, and React  
-- 🧠 **AI Enthusiast** | Focused on Deep Learning & Computer Vision  
-- 🎯 **Goal:** Start a **robotics company** that builds humanoid robots  
+- 🧠 **AI Enthusiast** | Focused on Deep Learning &  Natural Language Processing  
 
 ## 🛠️ Skills & Technologies  
 - 🔹 **Languages:** Python, C#, SQL, JavaScript, HTML/CSS  
@@ -16,5 +14,3 @@ Hi, I'm **Damir Ali**—an aspiring **Robotics Engineer** with a passion for **A
 ## 📫 Connect with Me  
 - 📧 **Email:** [damiradel10@gmail.com](mailto:damiradel10@gmail.com)  
 - 💼 **LinkedIn:** [DamirAdelAli](https://linkedin.com/in/DamirAdelAli)  
-
-> 🔹 **"You cannot change the world alone, have a robot"** 🔹  
